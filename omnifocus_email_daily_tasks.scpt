@@ -22,7 +22,7 @@
 ------------------------------------------
 
 -- Where is the email being sent to ? 
-property toAddress : "jamiedavies@gmail.com"
+property toAddress : "email@address.com"
 
 -- Do you want to email all flagged tasks? (true / false) 
 property isFlagged : true
